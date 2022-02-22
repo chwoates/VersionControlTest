@@ -14,9 +14,6 @@ public class VersionCont {
         System.out.println(y);
         System.out.println(y+2);
         System.out.println(y+4);
-
-        System.out.println("This is messed up");
-
     }
 
     public int moreFun(){
