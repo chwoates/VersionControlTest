@@ -13,6 +13,7 @@ public class VersionCont {
         int y = 8;
         System.out.println(y);
         System.out.println(y+2);
+        System.out.println(y+4);
         System.out.println("Cat");
 
     }
