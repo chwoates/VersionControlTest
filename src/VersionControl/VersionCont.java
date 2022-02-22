@@ -17,7 +17,12 @@ public class VersionCont {
         System.out.println("Cat");
         System.out.println("Nitro");
         System.out.println("Turbo");
+        System.out.println(moreFun());
 
+    }
+
+    public int moreFun(){
+        return 3;
     }
 
 }
