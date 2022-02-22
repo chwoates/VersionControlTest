@@ -9,7 +9,12 @@ public class VersionCont {
     }
 
     public void progRun(){
+
+        int y = 8;
+        System.out.println(y);
         System.out.println("Cat");
+
+
     }
 
 }
