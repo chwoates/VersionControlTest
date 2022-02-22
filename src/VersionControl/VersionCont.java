@@ -21,6 +21,8 @@ public class VersionCont {
         System.out.println("Master change");
         System.out.println("New Branch Change");
 
+        System.out.println("New Master Change");
+
     }
 
     public int moreFun(){
