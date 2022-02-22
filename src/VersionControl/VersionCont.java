@@ -19,7 +19,6 @@ public class VersionCont {
         System.out.println("More Schifo");
         System.out.println("Less Schifo");
         System.out.println("Master change");
-
         System.out.println("New Branch Change");
 
     }
